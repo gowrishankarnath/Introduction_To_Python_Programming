@@ -1,0 +1,24 @@
+{
+	"first_name": "Andrew",
+	"middle_name": "Wood",
+	"last_name": "Ellis",
+	"contact": {
+		"phone": "1 - 690 - 793 - 4521",
+		"email": "andrewellis@gmail.com"
+	},
+	"address": [{
+			"address_type": "Office",
+			"street": "3096 Euclid Avenue",
+			"city": "Los Angeles",
+			"zip_code": 90017,
+			"state": "California"
+		},
+		{
+			"address_type": "Home",
+			"street": "940 Lewis Street",
+			"city": "Los Angeles",
+			"zip_code": 90185,
+			"state": "California"
+		}
+	]
+}
