@@ -163,7 +163,7 @@ Review Questions
 9.8 Summary   
 Multiple Choice Questions   
 Review Questions   
-**10. Regular Expression Operations**
+**10. Regular Expression Operations**  
 10.1 Using Special Characters   
 10.2 Regular Expression Methods   
 10.3 Named Groups in Python Regular Expressions   
