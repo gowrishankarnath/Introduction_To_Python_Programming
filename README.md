@@ -39,7 +39,7 @@ You are very welcome to re-use the code snippets for academic purpose; in this c
  }   
 
 **MLA:**   
-S, Gowrishankar, and Veena A. Introduction to Python Programming. Chapman & Hall/CRC Press, 2018.   
+S, Gowrishankar, and A, Veena. Introduction to Python Programming. Chapman & Hall/CRC Press, 2018.   
 
 ### Contributing to the book  
 Please don't make pull requests here. I don't accept pull requests on this repository. If you notice an issue, please file an [issue](https://github.com/gowrishankarnath/Introduction_To_Python_Programming/issues) instead.  
