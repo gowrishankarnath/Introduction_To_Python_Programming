@@ -1,17 +1,23 @@
 # Introduction to Python Programming   
 <center><img src="Images/Cover_Image.jpg" alt="Authored Book" align="middle" height = 350, width = 250></center>   
+</br>
+
 This Git repository contains the code examples from the book **"Introduction to Python Programming"**, authored by  *Gowrishankar S.* and *Veena A.* and published by CRC Press/Taylor and Francis, Boca Raton, USA.   
 
 ### Book Purchase  
 You can purchase the book at following sources. **(Click on the image to buy)**    
 
 <center><a href="https://tinyurl.com/yxhe2nev" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_india.jpg" width="300" height="100" alt="amazon india"></a></center>  
+</br>
 
 <center><a href="https://tinyurl.com/yxhe2nev" target="_blank" style="color: rgb(6,69,173)"><img src="Images/flipkart.jpg" width="300" height="100" alt="flipkart"></a></center>  
+</br>
 
 <center><a href="http://www.amazon.com/dp/0815394373" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_usa.jpg" width="300" height="100" alt="amazon usa" align = "middle"></a></center>  
+</br>
 
 <center><a href="https://www.crcpress.com/Introduction-to-Python-Programming/S-A/p/book/9780815394372" target="_blank" style="color: rgb(6,69,173)"><img src="Images/crc.jpg" width="300" height="100" alt="crcpress" align = "middle"></a></center>  
+</br>
 
 ### Book Details  
 **Hardcover:** 464 pages  
