@@ -7,13 +7,15 @@ This Git repository contains the code examples from the book **"Introduction to 
 ### Book Purchase  
 You can purchase the book at following sources. **(Click on the image to buy)**    
 
-<center><a href="https://www.amazon.in/dp/0367410176/ref=cm_sw_em_r_mt_dp_U_AGlKDb2XSZ3XM" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_india.jpg" width="300" height="100" alt="amazon india"></a></center>  
+<center><a href="https://www.amazon.in/dp/0367410176/" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_india.jpg" width="300" height="100" alt="amazon india"></a></center>  
+
 </br>
 
-<center><a href="https://www.amazon.in/dp/0367410176/ref=cm_sw_em_r_mt_dp_U_AGlKDb2XSZ3XM" target="_blank" style="color: rgb(6,69,173)"><img src="Images/flipkart.jpg" width="300" height="100" alt="flipkart"></a></center>  
+<center><a href="https://www.amazon.in/dp/0367410176/" target="_blank" style="color: rgb(6,69,173)"><img src="Images/flipkart.jpg" width="300" height="100" alt="flipkart"></a></center>  
+
 </br>
 
-<center><a href="https://www.amazon.com/dp/0367410176/ref=cm_sw_r_tw_dp_U_x_aah9Db278BFCX" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_usa.jpg" width="300" height="100" alt="amazon usa" align = "middle"></a></center>  
+<center><a href="https://www.amazon.com/dp/0367410176/" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_usa.jpg" width="300" height="100" alt="amazon usa" align = "middle"></a></center>  
 
 </br>
 
