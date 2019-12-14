@@ -1,21 +1,22 @@
 # Program 6.10: Write Python Program to Perform Queue Operations
 
-matrix = [[10, 20],
-          [30, 40],
-          [50, 60]]
+from collections import deque
 
-matrix_transpose = [[0, 0, 0],
-                    [0, 0, 0]]
+
+def queue_operations():
+    queue = deque(["Eric", "John", "Michael"])
+    print(f"Queue items are {queue}")
+    print("Adding few items to Queue")
+    queue.append("Terry")
+    queue.append("Graham")
+    print(f"Queue items are {queue}")
+    print(f"Removed item from Queue is {queue.popleft()}")
+    print(f"Removed item from Queue is {queue.popleft()}")
+    print(f"Queue items are {queue}")
 
 
 def main():
-    for rows in range(len(matrix)):
-        for columns in range(len(matrix[0])):
-            matrix_transpose[columns][rows] = matrix[rows][columns]
-
-    print("Transposed Matrix is")
-    for items in matrix_transpose:
-        print(items)
+    queue_operations()
 
 
 if __name__ == "__main__":

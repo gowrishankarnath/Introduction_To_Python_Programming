@@ -1,23 +1,25 @@
 # Program 6.12: Write Python Program to Add Two Matrices
 
-from collections import deque
+matrix_1 = [[1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]]
+
+matrix_2 = [[1, 2, 3],
+            [4, 5, 6],
+            [7, 8, 9]]
 
 
-def queue_operations():
-    queue = deque(["Eric", "John", "Michael"])
-    print(f"Queue items are {queue}")
-    print("Adding few items to Queue")
-    queue.append("Terry")
-    queue.append("Graham")
-    print(f"Queue items are {queue}")
-    print(f"Removed item from Queue is {queue.popleft()}")
-    print(f"Removed item from Queue is {queue.popleft()}")
-    print(f"Queue items are {queue}")
+matrix_result = [[0, 0, 0],
+                 [0, 0, 0],
+                 [0, 0, 0]]
 
 
-def main():
-    queue_operations()
+for rows in range(len(matrix_1)):
+    for columns in range(len(matrix_2[0])):
+        matrix_result[rows][columns] = matrix_1[rows][columns] + matrix_2[rows][columns]
 
 
-if __name__ == "__main__":
-    main()
+print("Addition of two matrices is")
+for items in matrix_result:
+    print(items)
+
