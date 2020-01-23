@@ -15,7 +15,7 @@ You can purchase the book at following sources. **(Click on the image to buy)**
 
 </br>
 
-<center><a href="https://www.amazon.com/dp/0367410176/" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_usa.jpg" width="300" height="100" alt="amazon usa" align = "middle"></a></center>  
+<center><a href="https://www.amazon.com/dp/0815394373/" target="_blank" style="color: rgb(6,69,173)"><img src="Images/amazon_usa.jpg" width="300" height="100" alt="amazon usa" align = "middle"></a></center>  
 
 </br>
 
